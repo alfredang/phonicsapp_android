@@ -16,7 +16,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.tertiaryinfotech.phonics"
+        applicationId = "com.tertiaryinfotech.phonicsapp"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
