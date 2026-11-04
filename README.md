@@ -1,5 +1,3 @@
-# phonicsapp_android
-
 # Phonics — Pronunciation Trainer for Adults (Android)
 
 A native Android (Jetpack Compose, Material 3) app that helps adults learn English
@@ -7,6 +5,10 @@ A native Android (Jetpack Compose, Material 3) app that helps adults learn Engli
 **British** or **American** accent — fully offline. This is the Android mirror of the
 [iOS Phonics Pronunciation Coach](https://apps.apple.com/us/app/phonics-pronunciation-coach/id6782569616),
 feature-for-feature.
+
+[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Get%20it%20now-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.phonicsapp)
+
+**[Get Phonics Pronunciation Coach on Google Play →](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.phonicsapp)** · package `com.tertiaryinfotech.phonicsapp`
 
 ![Phonics — Learn tab](screenshot.png)
 
