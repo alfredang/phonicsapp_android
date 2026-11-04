@@ -6,6 +6,8 @@ A native Android (Jetpack Compose, Material 3) app that helps adults learn Engli
 [iOS Phonics Pronunciation Coach](https://apps.apple.com/us/app/phonics-pronunciation-coach/id6782569616),
 feature-for-feature.
 
+<p><a href="https://play.google.com/store/apps/details?id=com.tertiaryinfotech.phonicsapp"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80"></a></p>
+
 [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Get%20it%20now-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.phonicsapp)
 
 **[Get Phonics Pronunciation Coach on Google Play →](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.phonicsapp)** · package `com.tertiaryinfotech.phonicsapp`
